@@ -1,0 +1,21 @@
+1. 크롤러 - 정보 탐색 느낌? 자동으로 요즘 트랜드 탐색
+2. 필터 - 크롤링 단어를 필터링해서 시드키워드를 뽑음
+3. expand 확장 - 시드키워드를 확장함 
+4. related 연관 - 시드키워드에서 실제 검색에 사용되는 연관키워드를 뽑음 
+5. gold.py 황금 - 연관키워드에서 실제 사용가능한 황금키워드를 뽑음 
+
+
+#API별 기능정리 
+
+1.네이버 검색 API  https://openapi.naver.com/v1/search/blog 
+
+키워드의 블로그 문서량 조회
+
+2.네이버 검색 광고 API (키워드툴) https://api.searchad.naver.com/keywordstool
+
+키워드 검색량 조회
+
+
+3. 네이버 자동완성 API  https://mac.search.naver.com/mobile/ac
+
+연관키워드 확장

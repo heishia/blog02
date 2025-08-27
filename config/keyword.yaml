@@ -1,0 +1,27 @@
+# 황금키워드 단계별 컷라인
+blog_stages:
+  "1": # 1단계: 초기(방문자수 적음)
+    D_max: 1000
+    S_min: 1000
+    S_max: 2000
+    description: "초기 블로그 (방문자수 적음)"
+  "2": # 2단계: 성장 단계
+    D_max: 2000
+    S_min: 1000
+    S_max: 10000
+    description: "성장 단계"
+  "3": # 3단계: 중급
+    D_max: 3000
+    S_min: 1000
+    S_max: 30000
+    description: "중급"
+  "4": # 4단계: 상급(라이트)
+    D_max: 6000
+    S_min: 6000
+    S_max: 50000
+    description: "상급 (라이트)"
+  "5": # 5단계: 상급
+    D_max: 10000
+    S_min: 6000
+    S_max: 100000
+    description: "상급"

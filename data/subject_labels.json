@@ -1,0 +1,43 @@
+{
+  "description": "Subject별 고정 라벨 매핑 설정",
+  "subject_label_mapping": {
+    "SNS": [
+      "B-TMI_SERVICE",
+      "I-TMI_SERVICE"
+    ],
+    "게임": [
+      "I-AFW_OTHER_PRODUCTS",
+      "B-TMIG_GENRE",
+      "I-TMIG_GENRE"
+    ],
+    "모바일 게임": [
+      "I-AFW_OTHER_PRODUCTS",
+      "B-TMIG_GENRE",
+      "I-TMIG_GENRE"
+    ],
+    "PC게임": [
+      "I-AFW_OTHER_PRODUCTS",
+      "B-TMIG_GENRE",
+      "I-TMIG_GENRE"
+    ],
+    "IT": [
+      "B-TMI_SERVICE",
+      "I-TMI_SERVICE",
+      "B-TMI_SW",
+      "I-TMI_SW"
+    ]
+  },
+  "default_target_labels": [
+    "B-AFW_OTHER_PRODUCTS",
+    "I-AFW_OTHER_PRODUCTS",
+    "B-TMIG_GENRE",
+    "I-TMIG_GENRE",
+    "B-TMI_SERVICE",
+    "I-TMI_SERVICE",
+    "B-TMI_SW",
+    "I-TMI_SW",
+    "B-OGG_MEDIA",
+    "I-OGG_MEDIA"
+  ],
+  "last_updated": "2025-01-27"
+}

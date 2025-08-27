@@ -1,0 +1,2085 @@
+{
+  "keyword_subject": "게임",
+  "last_updated": "2025-08-23T15:00:59",
+  "total_keywords": 614,
+  "seed_keywords": [
+    {
+      "keyword": "온라인",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "카트라이더 러쉬플러스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "카트라이더",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "모바일",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "레이싱 게임",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "베이더스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "그라나도 에스파다M",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배틀필드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "보드",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "시뮬레이션",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "MO",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": ". CO 게임",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "아랑전설",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Of The Wolves",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "FPS",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "포켓몬스터",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "앤 워",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "카트라이더 게임",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Launchpool",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "오브 듀티 모바일",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "슈팅",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "오브 듀티",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "아이스박스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Gallipoli",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "MMORPG",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "엘피스 전기 : 소울링이",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "오브",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "RPG",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE",
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "오브 레전드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배틀그라운드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배그",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "VR",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "오버워치",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배틀로얄 게임",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "블록체인",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "월드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "포스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "커비 게임",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "레이터 엘리게이터",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "유나이트",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "페이트 워",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "카드",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "레트로",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "플레이스테이션",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배틀그라운드가",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "테일즈 오브 엑실리아",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "둠브",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "아이러브니키",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "엑박",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "꿍깡월드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "이야기 Cave Story",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "데몬즈 소울",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "라쳇앤 클랭크",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "고오쓰 디렉터컷X",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "레데리",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "어쌔신 크리드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "LoL",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "쿠키런 : 오븐브레이크",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "링피트",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "메이플스토리등",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "바이오하자드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Resident Evil",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "메이플스토리",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "붉은사막",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "린월드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "콘솔",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "마비노기",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "커비는",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "포켓몬스터 PT 기라티나",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "에어라이드 다이렉트",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "철권태그",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "갤럭시워치",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "젠레스 존 제로",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "PC",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "레노버요가탭플러스AI",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "아비쟈",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Apidya",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "무한대ananta",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "이환",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "팰리스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "엔드필드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "배틀패스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "어나더",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "라스베가스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "슈퍼럭띠배셋",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "스노우볼배셋",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "핑크곰셋",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "럭다옷",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "우니아슈옷",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "카트 월드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "토리의 모험",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "워페어 II",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "알비온온라인",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "목장이야기",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "빌리지골드",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "동숲",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "루시셋",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "지포스",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "사이버펑크",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "철권",
+      "confidence": 1.0,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "독도월드",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "그라나도",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "재이월드",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "카오스 디펜스",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "갈리폴리",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "꿈 : 디펜스의 서막",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Terraria",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "GTB",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "봄빵",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "킹덤 컴 : 딜리버런스",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "라이벌스",
+      "confidence": 0.999,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "WASD",
+      "confidence": 0.998,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "링피트로",
+      "confidence": 0.998,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "극지",
+      "confidence": 0.998,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Ryzen",
+      "confidence": 0.998,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "어비스",
+      "confidence": 0.997,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "페이트",
+      "confidence": 0.996,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "플랫포머",
+      "confidence": 0.996,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "미오깃",
+      "confidence": 0.996,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "동물의 숲",
+      "confidence": 0.996,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "캐쉬플로우 게임",
+      "confidence": 0.995,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "사행성",
+      "confidence": 0.995,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "넷플릭스",
+      "confidence": 0.995,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "두뇌",
+      "confidence": 0.995,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "로그라이크",
+      "confidence": 0.995,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "lenovo",
+      "confidence": 0.995,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "공포",
+      "confidence": 0.994,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "정마불",
+      "confidence": 0.994,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "cu알뜰택배시",
+      "confidence": 0.994,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "쿠키런킹덤",
+      "confidence": 0.993,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "블루아카이브",
+      "confidence": 0.993,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "인텐스글러브",
+      "confidence": 0.993,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "기기",
+      "confidence": 0.993,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "인형뽑기 게임",
+      "confidence": 0.992,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "모래성",
+      "confidence": 0.992,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "아쿠아플라넷 모바일",
+      "confidence": 0.992,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "오버워치 롤",
+      "confidence": 0.992,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "리티아",
+      "confidence": 0.992,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "젤다",
+      "confidence": 0.992,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "AMD카드",
+      "confidence": 0.992,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "Exilia",
+      "confidence": 0.989,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "포이",
+      "confidence": 0.989,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "협동",
+      "confidence": 0.988,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "커비 다이렉트",
+      "confidence": 0.988,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "스틱맨",
+      "confidence": 0.987,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "테라",
+      "confidence": 0.981,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "오브 Z",
+      "confidence": 0.981,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "투두보드",
+      "confidence": 0.981,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "세븐나이츠 리버스 게임",
+      "confidence": 0.979,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "멸혼의 길",
+      "confidence": 0.977,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "시네빔 쇼츠",
+      "confidence": 0.973,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "퍼즐 게임",
+      "confidence": 0.973,
+      "labels": [
+        "I-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "지포스카드",
+      "confidence": 0.973,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "대구랑이",
+      "confidence": 0.971,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "팬텀 후딘",
+      "confidence": 0.967,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "다이렉트",
+      "confidence": 0.964,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "포이 드악식 아콰셋",
+      "confidence": 0.96,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "루어킬러 오션블루",
+      "confidence": 0.954,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "액션",
+      "confidence": 0.953,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "아레나 si",
+      "confidence": 0.95,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "테라리아",
+      "confidence": 0.946,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "클라우드",
+      "confidence": 0.945,
+      "labels": [
+        "B-TMIG_GENRE"
+      ]
+    },
+    {
+      "keyword": "Herdling",
+      "confidence": 0.944,
+      "labels": [
+        "I-AFW_OTHER_PRODUCTS"
+      ]
+    },
+    {
+      "keyword": "에어바운스대여",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 164
+    },
+    {
+      "keyword": "로스트아크",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 165
+    },
+    {
+      "keyword": "던파",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 166
+    },
+    {
+      "keyword": "에어바운스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 167
+    },
+    {
+      "keyword": "피파온라인4",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 168
+    },
+    {
+      "keyword": "롤",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 169
+    },
+    {
+      "keyword": "던전앤파이터",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 170
+    },
+    {
+      "keyword": "크레이지아케이드",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 171
+    },
+    {
+      "keyword": "피파4",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 172
+    },
+    {
+      "keyword": "메이플스토리M",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 173
+    },
+    {
+      "keyword": "폴가이즈",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 176
+    },
+    {
+      "keyword": "서든어택",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 178
+    },
+    {
+      "keyword": "프라시아전기",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 179
+    },
+    {
+      "keyword": "검은사막",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 181
+    },
+    {
+      "keyword": "바람의나라연",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 182
+    },
+    {
+      "keyword": "리니지",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_카트라이더",
+      "added_order": 183
+    },
+    {
+      "keyword": "포켓몬방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 180
+    },
+    {
+      "keyword": "포켓몬",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 181
+    },
+    {
+      "keyword": "포켓몬굿즈",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 182
+    },
+    {
+      "keyword": "피카츄방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 183
+    },
+    {
+      "keyword": "꼬부기방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 184
+    },
+    {
+      "keyword": "잠만보방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 185
+    },
+    {
+      "keyword": "메타몽방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 186
+    },
+    {
+      "keyword": "포켓몬스터굿즈",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 187
+    },
+    {
+      "keyword": "포켓몬차량용방향제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_포켓몬스터",
+      "added_order": 188
+    },
+    {
+      "keyword": "로드나인",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_마비노기",
+      "added_order": 189
+    },
+    {
+      "keyword": "레전드오브이미르",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_마비노기",
+      "added_order": 190
+    },
+    {
+      "keyword": "리니지M",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_마비노기",
+      "added_order": 191
+    },
+    {
+      "keyword": "라스베가스투어",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_라스베가스",
+      "added_order": 192
+    },
+    {
+      "keyword": "부루마블",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_라스베가스",
+      "added_order": 193
+    },
+    {
+      "keyword": "테라포밍마스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_라스베가스",
+      "added_order": 194
+    },
+    {
+      "keyword": "카탄",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_라스베가스",
+      "added_order": 198
+    },
+    {
+      "keyword": "쿠키런킹덤보드게임",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 207
+    },
+    {
+      "keyword": "패스오브엑자일2",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_배그",
+      "added_order": 218
+    },
+    {
+      "keyword": "검은신화오공",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_배그",
+      "added_order": 219
+    },
+    {
+      "keyword": "포트나이트",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_배그",
+      "added_order": 220
+    },
+    {
+      "keyword": "GTA5",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_배그",
+      "added_order": 221
+    },
+    {
+      "keyword": "스노우스토어",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_배그",
+      "added_order": 222
+    },
+    {
+      "keyword": "오버워치컴퓨터",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_오버워치",
+      "added_order": 223
+    },
+    {
+      "keyword": "발로란트",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_오버워치",
+      "added_order": 224
+    },
+    {
+      "keyword": "별의커비인형",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_커비 게임",
+      "added_order": 245
+    },
+    {
+      "keyword": "커비인형",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_커비 게임",
+      "added_order": 246
+    },
+    {
+      "keyword": "플스5",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 247
+    },
+    {
+      "keyword": "플레이스테이션5",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 248
+    },
+    {
+      "keyword": "PS5",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 249
+    },
+    {
+      "keyword": "플스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 250
+    },
+    {
+      "keyword": "플레이스테이션스토어",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 251
+    },
+    {
+      "keyword": "플스5게임추천",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 252
+    },
+    {
+      "keyword": "PS5슬림",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 253
+    },
+    {
+      "keyword": "플스5슬림",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 254
+    },
+    {
+      "keyword": "플스스토어",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_플레이스테이션",
+      "added_order": 255
+    },
+    {
+      "keyword": "레이븐2",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_메이플스토리",
+      "added_order": 216
+    },
+    {
+      "keyword": "로한2",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_메이플스토리",
+      "added_order": 217
+    },
+    {
+      "keyword": "유튜브",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 218
+    },
+    {
+      "keyword": "갤럭시버즈",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 219
+    },
+    {
+      "keyword": "갤럭시워치7",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 220
+    },
+    {
+      "keyword": "유튜브프리미엄",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 221
+    },
+    {
+      "keyword": "유튜브프리미엄가격",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 222
+    },
+    {
+      "keyword": "갤럭시워치울트라",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 223
+    },
+    {
+      "keyword": "갤럭시시계",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 224
+    },
+    {
+      "keyword": "워치5스트랩",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 225
+    },
+    {
+      "keyword": "유튜브프리미엄할인",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_갤럭시워치",
+      "added_order": 226
+    },
+    {
+      "keyword": "카트라이더계정",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 226
+    },
+    {
+      "keyword": "카스온라인훈장",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 227
+    },
+    {
+      "keyword": "카발온라인2",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 228
+    },
+    {
+      "keyword": "카스2",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 229
+    },
+    {
+      "keyword": "카발2온라인",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 230
+    },
+    {
+      "keyword": "알비온온라인무기",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 231
+    },
+    {
+      "keyword": "카트라이더드리프트",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_알비온온라인",
+      "added_order": 232
+    },
+    {
+      "keyword": "나노웰지포스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 233
+    },
+    {
+      "keyword": "제국",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 234
+    },
+    {
+      "keyword": "CPU",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 235
+    },
+    {
+      "keyword": "조립PC사이트추천",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 236
+    },
+    {
+      "keyword": "재담",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 237
+    },
+    {
+      "keyword": "나노웰이온칼맥",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 238
+    },
+    {
+      "keyword": "G-FOS",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 239
+    },
+    {
+      "keyword": "나노웰플러스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 240
+    },
+    {
+      "keyword": "RX6600",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_지포스",
+      "added_order": 241
+    },
+    {
+      "keyword": "동물분양사이트",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 242
+    },
+    {
+      "keyword": "동물분양",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 243
+    },
+    {
+      "keyword": "분양샵",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 244
+    },
+    {
+      "keyword": "강아지의날",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 245
+    },
+    {
+      "keyword": "펫시장",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 246
+    },
+    {
+      "keyword": "펫펨",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_동물의 숲",
+      "added_order": 247
+    },
+    {
+      "keyword": "넷플릭스요금제",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 248
+    },
+    {
+      "keyword": "네프릭스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 249
+    },
+    {
+      "keyword": "넷플릭스할인",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 250
+    },
+    {
+      "keyword": "넷플릭스유튜브",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 251
+    },
+    {
+      "keyword": "유튜브넷플릭스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 252
+    },
+    {
+      "keyword": "넷플릭스가격",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 253
+    },
+    {
+      "keyword": "유플러스넷플릭스",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 254
+    },
+    {
+      "keyword": "넷플릭스요금제할인",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_넷플릭스",
+      "added_order": 255
+    },
+    {
+      "keyword": "CU알뜰택배시",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_cu알뜰택배시",
+      "added_order": 256
+    },
+    {
+      "keyword": "그래그래전집",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 257
+    },
+    {
+      "keyword": "퓨처셀프",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 258
+    },
+    {
+      "keyword": "이야기꽃할망",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 259
+    },
+    {
+      "keyword": "흔한남매",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 260
+    },
+    {
+      "keyword": "좋은책어린이저학년문고",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 261
+    },
+    {
+      "keyword": "컬러링",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 262
+    },
+    {
+      "keyword": "그림책이참좋아",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 263
+    },
+    {
+      "keyword": "영어전집대여",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_쿠키런킹덤",
+      "added_order": 264
+    },
+    {
+      "keyword": "블루아카이브PC",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_블루아카이브",
+      "added_order": 265
+    },
+    {
+      "keyword": "블루아카이브앤솔로지",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_블루아카이브",
+      "added_order": 266
+    },
+    {
+      "keyword": "BLUEARCHIVE",
+      "confidence": 1.0,
+      "labels": [
+        "EXPANDED_KEYWORD"
+      ],
+      "source": "expanded_from_블루아카이브",
+      "added_order": 267
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "keyword_subject": "SNS",
+  "last_updated": "2025-08-22T19:08:01",
+  "total_keywords": 81,
+  "seed_keywords": [
+    {
+      "keyword": "웨이보",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "인스타그램",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMI_SERVICE",
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "유튜브",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "텔레그램",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMI_SERVICE",
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "카카오톡",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "트위터",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "뽐뿌",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "SPOTV",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "인스타나",
+      "confidence": 1.0,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "트위드몰",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "틱톡라이트",
+      "confidence": 1.0,
+      "labels": [
+        "B-TMI_SERVICE",
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "핀터레스트",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "인스타",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE",
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "넥스페이",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "Reddit",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "구글폼",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "네이버",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "플레이스",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "클리앙",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "넷플릭스",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "웨이브",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "티빙",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "쿠팡플레이",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "네이버페이",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "인스타그램 리엘스",
+      "confidence": 0.999,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "카톡",
+      "confidence": 0.999,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "카카오스토리",
+      "confidence": 0.998,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "틱톡",
+      "confidence": 0.998,
+      "labels": [
+        "B-TMI_SERVICE",
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "레딧",
+      "confidence": 0.998,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "하루라이브",
+      "confidence": 0.998,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "아고다",
+      "confidence": 0.997,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "위고비",
+      "confidence": 0.997,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "스토어",
+      "confidence": 0.997,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "리티아",
+      "confidence": 0.996,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "쓰레드",
+      "confidence": 0.995,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "여더쿠",
+      "confidence": 0.993,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "zzuneduck",
+      "confidence": 0.99,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "스마트스토어",
+      "confidence": 0.99,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "sns",
+      "confidence": 0.987,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "맘스코치",
+      "confidence": 0.986,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "에코딜몰",
+      "confidence": 0.975,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "헬로톡 Hellotalk",
+      "confidence": 0.975,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "페이스북",
+      "confidence": 0.97,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "카카오톡",
+      "confidence": 0.965,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "인스타그램",
+      "confidence": 0.963,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "유튜브",
+      "confidence": 0.962,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "트위터",
+      "confidence": 0.96,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "sbs drama 인스타그램",
+      "confidence": 0.933,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "제로마켓",
+      "confidence": 0.933,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "스마트 플레이스",
+      "confidence": 0.885,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "이더리움",
+      "confidence": 0.879,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "위젯",
+      "confidence": 0.878,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "타카페",
+      "confidence": 0.854,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "베이몰",
+      "confidence": 0.849,
+      "labels": [
+        "I-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "익스피디아",
+      "confidence": 0.821,
+      "labels": [
+        "B-TMI_SERVICE"
+      ]
+    },
+    {
+      "keyword": "웨이보 가입 방법",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 56
+    },
+    {
+      "keyword": "웨이보게이밍",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 57
+    },
+    {
+      "keyword": "웨이보 가입",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 58
+    },
+    {
+      "keyword": "웨이보 갈라",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 59
+    },
+    {
+      "keyword": "웨이보 초화",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 60
+    },
+    {
+      "keyword": "웨이보 로그인",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 61
+    },
+    {
+      "keyword": "티웨이 보상금",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 62
+    },
+    {
+      "keyword": "심월 웨이보",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 63
+    },
+    {
+      "keyword": "조로사 웨이보",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 64
+    },
+    {
+      "keyword": "웨이보 가입 방법 아이폰",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 65
+    },
+    {
+      "keyword": "웨이보 가입방법 문자",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 66
+    },
+    {
+      "keyword": "웨이보 가입방법 인증",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 67
+    },
+    {
+      "keyword": "웨이보게이밍 로스터",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 68
+    },
+    {
+      "keyword": "웨이보게이밍 t1",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 69
+    },
+    {
+      "keyword": "웨이보게이밍 라인업",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 70
+    },
+    {
+      "keyword": "웨이보게이밍 발로란트",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 71
+    },
+    {
+      "keyword": "웨이보게이밍 유니폼",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 72
+    },
+    {
+      "keyword": "웨이보 게이밍 선수단",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 73
+    },
+    {
+      "keyword": "웨이보 가입 문자",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 74
+    },
+    {
+      "keyword": "웨이보 가입 전화번호",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 75
+    },
+    {
+      "keyword": "웨이보 가입 오류",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 76
+    },
+    {
+      "keyword": "웨이보 가입 인증",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 77
+    },
+    {
+      "keyword": "웨이보 가입 아이폰",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 78
+    },
+    {
+      "keyword": "웨이보 로그인 하는법",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 79
+    },
+    {
+      "keyword": "웨이보 가입 인증문자",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 80
+    },
+    {
+      "keyword": "웨이보 가입 인증번호",
+      "confidence": 1.0,
+      "labels": [
+        "RELATED_EXPANDED"
+      ],
+      "source": "naver_autocomplete_from_웨이보",
+      "added_order": 81
+    }
+  ]
+}

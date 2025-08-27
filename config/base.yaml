@@ -1,0 +1,11 @@
+# 공통 기본 설정
+
+# API 자격증명 (실제 값으로 교체 필요)
+credentials:
+  naver_openapi:
+    client_id: "7MZRMvLs1uzdlssGgz94"
+    client_secret: "DyFm3ecZzH"
+  naver_ads:
+    customer_id: 2625596
+    api_key: "0100000000e592e3c7c404aaae551db1819f36f57d6d494aecb9d49b157340934ac0ffe952"
+    secret_key: "AQAAAACl73S4JRXYefS/P0G03mKAjI69PzjOTlpzY4Z7tkXMjQ=="
